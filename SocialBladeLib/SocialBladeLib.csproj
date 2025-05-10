@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+
+        <Version>1.0.0</Version>
+        <Authors>fabricators</Authors>
+        <Company>fabricators</Company>
+        <Copyright>fabricators 2025</Copyright>
+        <Description>Library for Social Blade APIs.</Description>
+        <PackageProjectUrl>https://github.com/fabricatorsltd/socialblade-lib-dotnet</PackageProjectUrl>
+        <PackageTags>socialblade,api,sdk</PackageTags>
+        <PackageReleaseNotes>First release</PackageReleaseNotes>
+        <PackageLicenseExpression>MPL-2.0</PackageLicenseExpression>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    </PropertyGroup>
+
+</Project>

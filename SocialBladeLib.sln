@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialBladeLib", "SocialBladeLib\SocialBladeLib.csproj", "{45B76CC3-7802-48EE-A446-DCB7681D0F3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialBladeLib.UnitTests", "SocialBladeLib.UnitTests\SocialBladeLib.UnitTests.csproj", "{FBD8F8E6-A447-4527-A818-22AD6E59B44B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45B76CC3-7802-48EE-A446-DCB7681D0F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B76CC3-7802-48EE-A446-DCB7681D0F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B76CC3-7802-48EE-A446-DCB7681D0F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B76CC3-7802-48EE-A446-DCB7681D0F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBD8F8E6-A447-4527-A818-22AD6E59B44B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD8F8E6-A447-4527-A818-22AD6E59B44B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD8F8E6-A447-4527-A818-22AD6E59B44B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD8F8E6-A447-4527-A818-22AD6E59B44B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
